@@ -104,3 +104,13 @@ Build a deep learning framework that **jointly detects sarcasm and sentiment** u
 - Google Colab
 
 ---
+
+## 🧑‍💻 Author
+
+**Itorobong Akpan**  
+MSc Data Science & Computational Intelligence  
+Coventry University, UK  
+📧 akpani4@uni.coventry.ac.uk  
+🔗 [GitHub Profile](https://github.com/akpanitorobong)
+
+---
