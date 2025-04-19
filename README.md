@@ -25,9 +25,8 @@ This repository presents two NLP projects exploring **sentiment analysis** on Tw
 | File | Description |
 |------|-------------|
 | [`7120_CW.ipynb`](https://github.com/akpanitorobong/7120CEM-Natural_Language_Processing/blob/main/7120_CW.ipynb) | Part 1: Cross-temporal sentiment analysis with traditional ML |
-| [`CW1 - Domain Adaptation Report.docx`](./CW1%20-%20Evaluating%20Domain%20Adaptation%20in%20Sentiment%20Analysis-%20A%20Cross-Temporal%20Study%20on%20Twitter%20Data%20(2013-2017).docx) | Full report on Part 1 |
 | [`7120_CW2.ipynb`](https://github.com/akpanitorobong/7120CEM-Natural_Language_Processing/blob/main/7120_CW2.ipynb) | Part 2: Sarcasm-aware sentiment analysis using BERTweet |
-| [`NLP2.docx`](./NLP2.docx) | Full report on Part 2 |
+
 
 ---
 
